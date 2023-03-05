@@ -79,9 +79,10 @@ web_modules/
 .env.production.local
 .env.local
 
-# parcel-bundler cache (https://parceljs.org/)
+# -bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
+dist
 
 # Next.js build output
 .next
